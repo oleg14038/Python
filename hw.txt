@@ -58,7 +58,7 @@ Math:
 
 ===============================
 План на день:
-1) инди курс 1ч
+1) инди курс 1ч https://stepik.org/course/63085/promo
 2) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 1ч 
 3) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 1ч 
 4) 1 задача на литкод ежедневно, сб/вс - отдых (250 задач в год)
